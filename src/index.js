@@ -6,7 +6,7 @@ const PLUGIN_REGEX = /mailinator\s(.*)/;
 
 const Faker = require('faker');
 
-const MAILINATOR_URL = 'https://www.mailinator.com/v2/inbox.jsp?zone=public&query=%email%';
+const MAILINATOR_URL = 'https://mailinator.com/v3/index.jsp?zone=public&query=%email%';
 const MAILINATOR_EMAIL_DOMAIN = '@mailinator.com';
 
 const plugin = ({ term, display, actions }) => {
