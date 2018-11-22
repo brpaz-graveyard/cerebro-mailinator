@@ -1,6 +1,6 @@
 # Cerebro-mailinator
 
-**Note: I am not using Cerebro anymore, so I wont maintain this extension. If you want to contribute, you can fork this extension or even better, just send me a message and I will transfer the owership of this repo to you.**
+**:warning: I am not using Cerebro anymore, so I wont maintain this extension. If you want to contribute, you can fork this extension or even better, just send me a message and I will transfer the owership of this repo to you.:warning:**
 
 ---
 
